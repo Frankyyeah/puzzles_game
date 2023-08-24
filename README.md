@@ -1,4 +1,5 @@
 # puzzles_game
 
-Movw with Arrow 
+Move with Arrow 
+	
 Press S to show full image
